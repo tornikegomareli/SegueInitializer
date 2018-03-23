@@ -12,7 +12,7 @@ namespace MPDCSegueInitializer
         {
         }
 
-
+        // method for preparing segue
         public static void PrepareForSegue(string identifier ,UIViewController parentViewController,
                                         UIViewController destViewController,NSObject sender){
 
