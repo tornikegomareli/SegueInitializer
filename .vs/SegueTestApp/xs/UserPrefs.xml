@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{69751530-F93A-4320-9581-6A159B28882C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MPDCSegueInitializer/SegueInitializer.cs">
+    <Files>
+      <File FileName="MPDCSegueInitializer/SegueInitAttribute.cs" Line="19" Column="1" />
+      <File FileName="MPDCSegueInitializer/SegueInitializer.cs" Line="21" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SegueTestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D6009A20-6321-4EC4-99FA-88EBE41EC151" />
+  <MultiItemStartupConfigurations />
+</Properties>
